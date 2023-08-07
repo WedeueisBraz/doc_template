@@ -1,0 +1,11 @@
+# mkdocs.yml
+site_name: ProjectScribe
+
+theme:
+  name: "material"
+
+nav:
+  - index.md
+  - Client Description: client_description.md
+  - Context: business_context.md
+  - User Story: user_story.md
